@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/voodoo3d_cvpr2024_decision/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/index/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <loc>https://example.com/post/voodoovr/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/post/voodooxp/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/voodoo3d_cvpr2024_decision/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/post/voodoo3d_forbes/</loc>
@@ -25,10 +25,14 @@
   </url><url>
     <loc>https://example.com/categories/</loc>
   </url><url>
+    <loc>https://example.com/tags/index/</loc>
+  </url><url>
     <loc>https://example.com/portfolio/</loc>
   </url><url>
     <loc>https://example.com/projects/</loc>
   </url><url>
     <loc>https://example.com/series/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
   </url>
 </urlset>
